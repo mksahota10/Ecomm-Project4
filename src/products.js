@@ -71,6 +71,30 @@ const products = [
       'description':
         'Red Blazer',
         'category': 'Cotton',
+      'price': 89.99,
+      'countInStock': 0,
+      'rating': 4,
+      'numReviews': 12,
+    },
+    {
+      '_id': '7',
+      'name': 'Red Blazer',
+      'image': '/images/red.jpg',
+      'description':
+        'Red Blazer',
+        'category': 'Cotton',
+      'price': 29.99,
+      'countInStock': 0,
+      'rating': 4,
+      'numReviews': 12,
+    },
+    {
+      '_id': '8',
+      'name': 'Red Blazer',
+      'image': '/images/red.jpg',
+      'description':
+        'Red Blazer',
+        'category': 'Cotton',
       'price': 29.99,
       'countInStock': 0,
       'rating': 4,
